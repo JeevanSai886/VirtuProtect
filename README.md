@@ -22,3 +22,13 @@ Moderation tools for social platforms or online communities.
 
 Real-time alerts for organizations to mitigate harmful behavior in chats.
 
+![image](https://github.com/user-attachments/assets/4cef9aa2-8882-4606-9bff-9c0ac2356b74)
+
+
+Team Members Details:
+Vishnuvardhan Chowdary Cheerla , vishnuvardhanchowdary
+Jeevan Sai Karumuri , jeevan886 
+CB Harsha Vardhan , harshavardhan_93874 
+Kaavya Lakshmi , Kaavie2134 
+Arunima Krishna , aklol_101
+
