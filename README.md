@@ -22,7 +22,7 @@ Moderation tools for social platforms or online communities.
 
 Real-time alerts for organizations to mitigate harmful behavior in chats.
 
-Here is an Example of how this Model Works.
+Here is an Example of how this Model Works:
 
 
 
