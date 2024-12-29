@@ -22,6 +22,10 @@ Moderation tools for social platforms or online communities.
 
 Real-time alerts for organizations to mitigate harmful behavior in chats.
 
+Here is an Example of how this Model Works.
+
+
+
 ![image](https://github.com/user-attachments/assets/4cef9aa2-8882-4606-9bff-9c0ac2356b74)
 
 
